@@ -1,0 +1,4291 @@
+[
+    {
+        "text": "Eerste Hoofdstuk.",
+        "labels": []
+    },
+    {
+        "text": "Afhakken van 't vleesch in de Slacht-tyd, en hoe men de stukken best en ten meesten voordeelen zal gebruiken, en hoe men verder met alles in de Slacht-tyd, moet handelen.\n1.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 16,
+                "end": 23,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Afhakken van een Os, en hoe men daar mede handeldt, en hoe men de stukken best gebruikt.",
+        "labels": [
+            {
+                "text": "Os",
+                "start": 17,
+                "end": 19,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als de Os doormidden gehakt is, dan moet men ieder zyde nog eens midden door laaten hakken, maar zo, dat de voorste zyde, het kortste is, om dat de ribbenstukken dan veel beeter uitkomen.",
+        "labels": [
+            {
+                "text": "Os",
+                "start": 7,
+                "end": 9,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "ribbenstukken",
+                "start": 148,
+                "end": 161,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het bloedige van den hals, met den Afval; legt men byzonder, en is geschikt tot Huspot; en kan, na dat het uitgetrokken is en een dag of zes in 't zout gelegen heeft, gegeeten worden.",
+        "labels": [
+            {
+                "text": "hals",
+                "start": 21,
+                "end": 25,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dat geheel vleesch zonder been is, gebruikt men om daar Osse-worst van te maaken; en het vleesch van de schouwders met de twee platte bil stukken, met het vet van de broek gebruikt men tot rolpens in plaats van ander vet.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 11,
+                "end": 18,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 89,
+                "end": 96,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "bil stukken",
+                "start": 134,
+                "end": 145,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 155,
+                "end": 158,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "rolpens",
+                "start": 189,
+                "end": 196,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 217,
+                "end": 220,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het vleesch om in de rook te hangen daar toe neemt men de Paterstukken, de twee andere platte billen; en de twee beste ribben; en de spieren, die achter tusschen de beenen van de ribben inzitten, moeten daar schoon uitgedaan worden, om dat daar door ligt verderf ontstaan kan.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Paterstukken",
+                "start": 58,
+                "end": 70,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "billen",
+                "start": 94,
+                "end": 100,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 119,
+                "end": 125,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "spieren",
+                "start": 133,
+                "end": 140,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "beenen",
+                "start": 165,
+                "end": 171,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 179,
+                "end": 185,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De Harsten laat men een dag of vyf in het zout leggen en men moet ze niet te groot laaten hakken, om dat ze anders te ongeschikt zyn, en ieder een doet dit naa de groote van zyn huisgezin, ook zyn die Harsten dus zeer goed om in den Oven gezet en gebraaden te worden.",
+        "labels": [
+            {
+                "text": "Harsten",
+                "start": 3,
+                "end": 10,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Harsten",
+                "start": 201,
+                "end": 208,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het vleesch om in de Kuip in te zouten, daar neemt men toe de zes klapstukken van de buyk, de twee staartstukken, de schouwderbladeren, de twee borststukken, de vier andere ribben, als men de twee beste ribben wil in de rook hangen, anders kan men ook de Paterstukken inzouten, en dan nog de twee ongeschikte ribben die by de schouders zitten; en men laat die stukken groot of klein hakken naa dat men het wil hebben en het huisgezin groot is.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "buyk",
+                "start": 85,
+                "end": 89,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "staartstukken",
+                "start": 99,
+                "end": 112,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouwderbladeren",
+                "start": 117,
+                "end": 134,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "borststukken",
+                "start": 144,
+                "end": 156,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 173,
+                "end": 179,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 203,
+                "end": 209,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Paterstukken",
+                "start": 255,
+                "end": 267,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 309,
+                "end": 315,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouders",
+                "start": 326,
+                "end": 335,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het niervet is goed om te smelten, en te bewaren om het zelve van tyd tot tyd te gebruiken: de pens met de darmen laat men door de pens-vrouw wel ter degen schoon maaken, en men kykt het naderhand zelve naa, of het wel schoon is om het zindelyk te behandelen; Menschen van eenig vermogen gebruiken geen pooten en geen kop, maar de tong is goed om te rooken, En hoe men het vleesch zouten en rooken moet, zal ik hier naa zeggen.\n2.",
+        "labels": [
+            {
+                "text": "niervet",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 95,
+                "end": 99,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "darmen",
+                "start": 107,
+                "end": 113,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pooten",
+                "start": 303,
+                "end": 309,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kop",
+                "start": 318,
+                "end": 321,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "tong",
+                "start": 331,
+                "end": 335,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 373,
+                "end": 380,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Afhakken van een Varken en hoe men daar mede handeld, en alles best gebruikt.",
+        "labels": [
+            {
+                "text": "Varken",
+                "start": 17,
+                "end": 23,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als men het Varken, in 't midden aan weeder zyden van de rugge-graad, doorgesneden heeft, zo laat men ieder helft, even onder de schouwder nog eens doorsnyden in de breedte.",
+        "labels": [
+            {
+                "text": "Varken",
+                "start": 12,
+                "end": 18,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "rugge-graad",
+                "start": 57,
+                "end": 68,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "schouwder",
+                "start": 129,
+                "end": 138,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het Hoofd moet eerst, een nagt over, in het water leggen uittetrekken, dat het bloedige daar wat van af is, en dan moet het wat opgehangen worden tot dat het water daar van afgeloopen is; en dan moet het met wat droog zout worden gewreeven, en op een aarde schotel plat neer worden gelegt, wat zout daar over gesprengt en altemets eens omgekeert worden, om 'er naderhandt Zult van te maaken; of doorgehakt en gezouten tot Kinnebaks hammetjes te laaten rooken.",
+        "labels": [
+            {
+                "text": "Hoofd",
+                "start": 4,
+                "end": 9,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Kinnebaks hammetjes",
+                "start": 422,
+                "end": 441,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het bloedige van de hals met den afval gebruikt men voor Huspot, en moet niet lang in 't zout blyven leggen, een dag of acht is genoeg, om dat het anders te zout word.",
+        "labels": [
+            {
+                "text": "hals",
+                "start": 20,
+                "end": 24,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De Zystukken zyn tot gerookt spek, en om met de Hammen in de rook gehangen te worden.",
+        "labels": [
+            {
+                "text": "spek",
+                "start": 29,
+                "end": 33,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 48,
+                "end": 54,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De Spiertjes ter zyden met de krapjes zyn best om vers gegeeten en op de rooster gebraaden te worden.",
+        "labels": [
+            {
+                "text": "Spiertjes",
+                "start": 3,
+                "end": 12,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "krapjes",
+                "start": 30,
+                "end": 37,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Tot het Pekelvleesch gebruikt men de harst en de rugge-graad, het bovenste van de schouders met de pooten, zo men die niet tot huspot geschikt heeft.",
+        "labels": [
+            {
+                "text": "Pekelvleesch",
+                "start": 8,
+                "end": 20,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "harst",
+                "start": 37,
+                "end": 42,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "rugge-graad",
+                "start": 49,
+                "end": 60,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouders",
+                "start": 82,
+                "end": 91,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pooten",
+                "start": 99,
+                "end": 105,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De Lever is goed tot Leverbeulingen en het hart tot karrewy, maar moet eerst in 't water gezet worden, om wel ter degen schoon uittetrekken.",
+        "labels": [
+            {
+                "text": "Lever",
+                "start": 3,
+                "end": 8,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Leverbeulingen",
+                "start": 21,
+                "end": 35,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "hart",
+                "start": 43,
+                "end": 47,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "karrewy",
+                "start": 52,
+                "end": 59,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Tot het vleesch voor de Worst en de Saucyzen, daar toe neemt men het vleesch van de schouwders, en het onderste van de buyk, maar het zwoort moet 'er wel schoon afgesneden worden; en wil men veel worst hebben, zo neemt men daar een van de zystukken toe, en als het te vet is een van de Hammen.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 8,
+                "end": 15,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 69,
+                "end": 76,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouwders",
+                "start": 84,
+                "end": 94,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "buyk",
+                "start": 119,
+                "end": 123,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoort",
+                "start": 134,
+                "end": 140,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 286,
+                "end": 292,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het zwoort is goed tot Zult; maar de kleinste zwoortjes met de nek van't Varken gebruikt men tot hoofd-vleesch.",
+        "labels": [
+            {
+                "text": "zwoort",
+                "start": 4,
+                "end": 10,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoortjes",
+                "start": 46,
+                "end": 55,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "nek",
+                "start": 63,
+                "end": 66,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Varken",
+                "start": 73,
+                "end": 79,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "hoofd-vleesch",
+                "start": 97,
+                "end": 110,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De Reusel is goed tot Beulingen; en wil men geene Beulingen maaken, zo kan men die smelten om te bewaaren om koeken te bakken &c. 3.",
+        "labels": [
+            {
+                "text": "Reusel",
+                "start": 3,
+                "end": 9,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Gort-beulingen hoe men die zal maaken.",
+        "labels": []
+    },
+    {
+        "text": "Neemt 4 kop Gort schoon afgewasschen: 4 pond korenten die wel verlezen en schoon gewassen zyn: 8 loot gestoote kaneel: 1 loot gestoote nagelen: 3 loot gestoote notemuscaaten; 1/2 pond poeijer-zuiker: 1 pond gepelde amandelen in stukjes gesneden: 6 sukade schellen aan stukjes gesneden: Een hand vol zout: 10 pond of daar omtrent Osse-niervet aan dobbelsteentjes gesneden.",
+        "labels": [
+            {
+                "text": "Gort",
+                "start": 12,
+                "end": 16,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "korenten",
+                "start": 45,
+                "end": 53,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "kaneel",
+                "start": 111,
+                "end": 117,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "nagelen",
+                "start": 135,
+                "end": 142,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "notemuscaaten",
+                "start": 160,
+                "end": 173,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "amandelen",
+                "start": 215,
+                "end": 224,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "sukade schellen",
+                "start": 248,
+                "end": 263,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Osse-niervet",
+                "start": 329,
+                "end": 341,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men behoefd 'er geen Sukade nog Amandelen in te doen als men niet wil, en is evenwel goed maar zo lekker niet.",
+        "labels": [
+            {
+                "text": "Sukade",
+                "start": 21,
+                "end": 27,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Amandelen",
+                "start": 32,
+                "end": 41,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dit alles te zaamen in een groote pan of styfsel-kom of hakkebord gedaan, en 6 tinne kommetjes met Osse-vleesch-nat of ander vleesch-nat, of warm water daar op gegooten en digt toegedekt en altemets eens omgeroert.\nen zo een nagt over, op de warme plaat laaten staan weken; en dan stopt men ze gelyk Leverbeulingen; dog om dat de gort sterk zwelt maar half vol, en dan zynze half vol als men ze plat duuwt: Als ze gestopt zyn laat men ze zeer zagt kooken dat het water maar even beweegt omtrent een half uurtje, en men prikt ze ondertussen met een doorntje om niet te barsten en uittekooken, en dan zyn ze heel goed.\n4.",
+        "labels": [
+            {
+                "text": "Osse-vleesch-nat",
+                "start": 99,
+                "end": 115,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch-nat",
+                "start": 125,
+                "end": 136,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Leverbeulingen",
+                "start": 300,
+                "end": 314,
+                "label": null
+            },
+            {
+                "text": "gort",
+                "start": 330,
+                "end": 334,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Hooftvleesch, en Zult, hoe men dat zal maaken.",
+        "labels": [
+            {
+                "text": "Hooftvleesch",
+                "start": 0,
+                "end": 12,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Neemt een van de grootste Kalfskoppen, en reinigt die, en wascht ze vier of vyfmalen ter degen schoon af, en laatze een nacht in schoon regen water staan te trekken, dat 'er de slym en het bloedige wel schoon af is, en hangt de kop met schoon regen-water over het vuur; en doet ook in de keetel, de nek van het Varken, en de twee ooren met wat veel zwoort dat 'er genoeg is om\nhet vleesch in het hakkebord van booven en onderen te bedekken; en als men te veel zwoort en niet genoeg vleesch heeft, zo doet men 'er wel een of twee van de vleesigste stukken van het varken by, en men laat het te zaamen een uur of drie kooken, na dat men het alvorens wel schoon geschuimt heeft, en het moet zeer gaar zyn tot dat het vleesch van de beenen af valt, en dan schept men het uit op een aarde vergiettest of doorslag.",
+        "labels": [
+            {
+                "text": "Kalfskoppen",
+                "start": 26,
+                "end": 37,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kop",
+                "start": 228,
+                "end": 231,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "nek",
+                "start": 299,
+                "end": 302,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Varken",
+                "start": 311,
+                "end": 317,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "ooren",
+                "start": 330,
+                "end": 335,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoort",
+                "start": 349,
+                "end": 355,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 381,
+                "end": 388,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoort",
+                "start": 460,
+                "end": 466,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 482,
+                "end": 489,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "varken",
+                "start": 563,
+                "end": 569,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 714,
+                "end": 721,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "beenen",
+                "start": 729,
+                "end": 735,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men moet 'er de herssenen schoon uit doen, want die zyn niet goed in het Hoofdvleesch: de beenen en de vellen moeten 'er ook schoon uitgedaan worden, en het goede legt men apart, en men doet het in het hakkebord om gehakt te worden; de ooren met het zwoort moeten heel blyven, maar al het anderen moet onder malkanderen gedaan worden; en het vel van de tong met het geene dat aan de gorgel zit moet men 'er afdoen.",
+        "labels": [
+            {
+                "text": "herssenen",
+                "start": 16,
+                "end": 25,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Hoofdvleesch",
+                "start": 73,
+                "end": 85,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "beenen",
+                "start": 90,
+                "end": 96,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vellen",
+                "start": 103,
+                "end": 109,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ooren",
+                "start": 236,
+                "end": 241,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoort",
+                "start": 250,
+                "end": 256,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vel",
+                "start": 342,
+                "end": 345,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "tong",
+                "start": 353,
+                "end": 357,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "gorgel",
+                "start": 383,
+                "end": 389,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan doet men twee geraspte nootemuscaten, met wat gestoote foelie en met wat zout daar in, en men hakt het te zaamen onder een tot het redelyk klein, maar niet al te klein is.",
+        "labels": [
+            {
+                "text": "nootemuscaten",
+                "start": 27,
+                "end": 40,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "foelie",
+                "start": 59,
+                "end": 65,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan neemt men een platte aarde pot, die net van pas is, naa dat men veel of weinig Hoofdvleesch heeft, en men legt daar eerst wat zwoort in tot dat de bodem bedekt is, en men neemt omtrent de helft van dat gehakte vleesch en doet het boven op het zwoord dat in de pot legt, en de ooren legt men dan daar op, en dan de rest van het andere gehakte vleesch, en\ndan legt men wederom het zwoort boven op de pot dat ze vol is: Legt 'er dan een houte plankje of dekzel die in de pot sluit boven op, en zet 'er dan iets zwaars boven op om te parssen; en als het koud en styf genoeg is een linne doekje daar over gelegt met wat azyn, en zo weggezet, en het doekje altyd nat gehouden en wat azyn daar over gegooten, is heel goed.",
+        "labels": [
+            {
+                "text": "Hoofdvleesch",
+                "start": 83,
+                "end": 95,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoort",
+                "start": 130,
+                "end": 136,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 214,
+                "end": 221,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoord",
+                "start": 247,
+                "end": 253,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ooren",
+                "start": 280,
+                "end": 285,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 346,
+                "end": 353,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Op een andere wyze.",
+        "labels": []
+    },
+    {
+        "text": "Indien men geen Kinnebaks-hammen wil hebben zo kan men de Varkens kop daar toe gebruiken; en indien men de ooren niet tot huspot wil gebruiken, zo kapt men die met het vleesch en het zwoord, maar wat kleinder als hier boven gezegt word; en dan doet men alles in een groote doek die men ter deegen styf toebind, en dan legt men\n'er een plankje of dekzel boven op daar men een gewigt op zet, en men laat het een dag of anderhalf staan parssen zo word het tot een kaas: die legt men in een platte pan en men giet 'er zo veel azyn boven op dat hy onder legt, en men bevogtigd ze geduurig tot ze opgegeeten is: Anders handeld men daar mede als boven gezegt is.",
+        "labels": [
+            {
+                "text": "Kinnebaks-hammen",
+                "start": 16,
+                "end": 32,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Varkens kop",
+                "start": 58,
+                "end": 69,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ooren",
+                "start": 107,
+                "end": 112,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 168,
+                "end": 175,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoord",
+                "start": 183,
+                "end": 189,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Op een andere wyze.",
+        "labels": []
+    },
+    {
+        "text": "Wil men geen Hooftvleesch maaken, zo legt men het zwoord met de ooren, by de pooten in het zout, en men gebruikt het tot Varkens huspot, ook kan men het gekookte zwoord heel in de azyn leggen; dog gelyk hier booven gezegt is, is het best.\n5.",
+        "labels": [
+            {
+                "text": "Hooftvleesch",
+                "start": 13,
+                "end": 25,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoord",
+                "start": 50,
+                "end": 56,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ooren",
+                "start": 64,
+                "end": 69,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pooten",
+                "start": 77,
+                "end": 83,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "zwoord",
+                "start": 162,
+                "end": 168,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Leverbeulingen, hoe men die zal maaken.",
+        "labels": []
+    },
+    {
+        "text": "Neemt de Lever van het Varken en wascht die schoon, en laat die op een aarde schotel leggen; doet daar zo raauw de vellen en spieren met een mes ter degen schoon uit, en doet het in een schoon tobbetje.",
+        "labels": [
+            {
+                "text": "Lever",
+                "start": 9,
+                "end": 14,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Varken",
+                "start": 23,
+                "end": 29,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "vellen",
+                "start": 115,
+                "end": 121,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "spieren",
+                "start": 125,
+                "end": 132,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Legt dan de lever zo schoon gemaakt op een houte bort en kapt die daar heel fyn op, en doet ze dan in een aarde pot.",
+        "labels": [
+            {
+                "text": "lever",
+                "start": 12,
+                "end": 17,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Neemt dan drie Ouwbakken gestreeke Wittebroden, en snyd daar de korst, onder, boven en rondom, af, dat men maar de kruim behoud; doet daar een halve pint zoete melk by, en laat dat te zaamen kooken tot het pap word; en dan een klompje booter daar in geroert en heel klein gewreven; Als dit wat verslagen is roert het dan onder de Lever, en laat ze dan door een zeef die wat wyt is doorlopen: doet 'er dan wat gestoote peper met wat gestote kruitnagelen en wat zout in, en laat het zo wat doortrekken.",
+        "labels": [
+            {
+                "text": "melk",
+                "start": 160,
+                "end": 164,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Lever",
+                "start": 330,
+                "end": 335,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "peper",
+                "start": 418,
+                "end": 423,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "kruitnagelen",
+                "start": 440,
+                "end": 452,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Snydt daar wat veel van de Reusel, als ze nog raauw is, in dobbelsteentjes onder, of wat Osse-niervet zo als men wil; en doet ze in Osse of Varkens darmen, ieder zyn keur, maar maakt de beulingen niet te lang, men snydt ze gemeenelyk af, op twee of drie spannen lang.",
+        "labels": [
+            {
+                "text": "Reusel",
+                "start": 27,
+                "end": 33,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Osse-niervet",
+                "start": 89,
+                "end": 101,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Osse",
+                "start": 132,
+                "end": 136,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Varkens darmen",
+                "start": 140,
+                "end": 154,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "darmen",
+                "start": 148,
+                "end": 154,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men stopt de beulingen maar half vol om dat die anders te ligt uitkooken of barsten; en men bind ze met een touwtje onder en boven toe, en dan wordenze op een schootel plat nedergelegt, tot dat ze gekookt worden: Voor al moet men niet vergeeten genoeg vet daar in te doen, want anders zyn de Leverbeulingen te droog.",
+        "labels": [
+            {
+                "text": "vet",
+                "start": 252,
+                "end": 255,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan neemt men een groote vleesch keetel en men hangt ze vol regen water over het vuur, en als het water kookt doet men de beulingen daar in, dat die regt uit en niet op malkanderen leggen, daarom mag men niet meer als anderhalf douzyn beulingen te gelyk kooken; en ze moeten heel zagtjes kooken, omtrent een half uur lang.",
+        "labels": []
+    },
+    {
+        "text": "Als ze boven komen dan moet men ze prikken anders koken ze aan stukken: En als ze gaar zyn moeten ze met een schuimspaan worden uit- geschept in een Emmer met koud water; en dan worden ze op een tafel daar wat stroo op is in de lucht gelegt, tot dat ze koud zyn.",
+        "labels": [
+            {
+                "text": "stroo",
+                "start": 210,
+                "end": 215,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Eindelyk rygt men ze aan stokjes en men hangt ze op een luchtige plaats niet te digt by malkanderen, om te gebruiken als men wil.\n6.",
+        "labels": []
+    },
+    {
+        "text": "Niervet, hoe men dat best smelten zal.",
+        "labels": [
+            {
+                "text": "Niervet",
+                "start": 0,
+                "end": 7,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het Niervet is goed om te smelten, dan kan men het bewaaren om tot veel zaaken te gebruiken.",
+        "labels": [
+            {
+                "text": "Niervet",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men snyd het in vierkante dobbelsteenen, en men hangt het in een yzere pot over het vuur, en als het gesmolten is, doet men het door een zeef heenen loopen in een aarde keulse pot, daar men eerst een hand vol zout, met wat heele peper en kruidnagels in doet; het gesmolten vet moet men gestadig roeren om niet borderig te worden; en als het afgesmolten is,\nmoet men het zo lang roeren tot het koud is: Als het koud is zo doet men 'er wat droog zout boven op om niet sterk te worden, en men zet het weg om te gebruiken, het best is in een koele kelder, en het is heel goed om daar mede te bakken en te stooven als het ossenvleesch is, ook gebruikt men het in eenige groentens.\n7.",
+        "labels": [
+            {
+                "text": "peper",
+                "start": 229,
+                "end": 234,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "kruidnagels",
+                "start": 238,
+                "end": 249,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 273,
+                "end": 276,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ossenvleesch",
+                "start": 617,
+                "end": 629,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "groentens",
+                "start": 665,
+                "end": 674,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Osse-pekel en Rookworst, hoe men die maaken zal.",
+        "labels": []
+    },
+    {
+        "text": "Neemt by de 80 ponden gekapt Ossen-vleesch, 20 ponden Osse-vet van de broek, daar het vellige schoon afgedaan is, en dat zo klein gehakt is als het Osse-vleesch; en doet daar by 10 ponden spek aan kleine dobbelsteentjes gesneden.",
+        "labels": [
+            {
+                "text": "Ossen-vleesch",
+                "start": 29,
+                "end": 42,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Osse-vet",
+                "start": 54,
+                "end": 62,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Osse-vleesch",
+                "start": 148,
+                "end": 160,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "spek",
+                "start": 188,
+                "end": 192,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Neemt dan twee en een half pond zout; een vierendeel gestoote zwarte peper; een half vierendeel gestoote kruidnagelen; een hand vol gedroogde Saly, en als het gestooten is zo roert het gekapte alles onder het zout te zaamen, en strooidt het over het gekapte Osse-vleesch en laat het zo te zamen met het vet,\nen met het spek, ter deegen door een kneeden in een tobbetje, en laat het zo een nacht overstaan, dat het kruid ter degen daar door kan trekken, en legt'er een schoone doek over heen; en eer gy het dan stopt in wel schoon gemaakte Ossedarmen, zo moet het nog eens ter degen doorgeroert worden.",
+        "labels": [
+            {
+                "text": "zwarte peper",
+                "start": 62,
+                "end": 74,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "kruidnagelen",
+                "start": 105,
+                "end": 117,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Saly",
+                "start": 142,
+                "end": 146,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Osse-vleesch",
+                "start": 258,
+                "end": 270,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 303,
+                "end": 306,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "spek",
+                "start": 319,
+                "end": 323,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kruid",
+                "start": 414,
+                "end": 419,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Ossedarmen",
+                "start": 539,
+                "end": 549,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als de Worsten wel gestopt zyn, zo moeten ze op een stok wat te droogen gehangen worden, en dan in een aarde keulse pot, of een booter-vat dat wel ter degen digt en schoon uitgebroeidt, en met kruidnagelen berookt is, gelegt worden in droog zout, na dat men de Worsten eerst met zout gewreven heeft, en dan moet men ze op een plaats daar ze droog staan weg zetten, zonder ze toe te dekken; ook kan men een gedeelte tot rookworst in de schoorsteen hangen.\n8.",
+        "labels": [
+            {
+                "text": "stok",
+                "start": 52,
+                "end": 56,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "kruidnagelen",
+                "start": 193,
+                "end": 205,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Reusel, hoe men die wel zal smelten.",
+        "labels": [
+            {
+                "text": "Reusel",
+                "start": 0,
+                "end": 6,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Neemt de Reusel en snyd die op een houte tafelbord tot dobbelsteentjes, en doet ze dan in een yzere pot en zo op het vuur gezet om te laaten smelten, maar moet altemets eens omgeroert worden dat ze niet aan kan branden: Neemt dan een keulse pot en doet daar een hand vol zout in, met omtrent twintig kruidnagelen en zo veel heele peper als men tusschen de voorste vinger en den duim vatten kan: dan\neen zeef boven op de pot gezet en de gesmolte Reusel daar door laaten loopen in de pot, en als het altemaal in de pot gelopen is roert men het om; en als het koud is doet men wat zout daar booven op, of wat pekel, anders zou het sterk worden, en dan zet men het in de kelder weg, is zeer goed om koeken mede te bakken; en tot andere gebakken in plaats van booter te gebruiken, daar het Niervet niet te pas komt.\n9.",
+        "labels": [
+            {
+                "text": "Reusel",
+                "start": 9,
+                "end": 15,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kruidnagelen",
+                "start": 300,
+                "end": 312,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "peper",
+                "start": 330,
+                "end": 335,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Reusel",
+                "start": 445,
+                "end": 451,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Niervet",
+                "start": 785,
+                "end": 792,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Rolpens, hoe men die moet maaken om te bewaaren.",
+        "labels": []
+    },
+    {
+        "text": "De pens moet, als ze schoon gemaakt is, in kout water een halve dag gezet worden; de muts van de pens doet men ook in 't regen-water; dan laat men ze een nacht over op een stok te droogen hangen dat het water daar van afgeloopen is; en het vet dat 'er dan nog aan is moet 'er afgepluist worden.",
+        "labels": [
+            {
+                "text": "pens",
+                "start": 3,
+                "end": 7,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "muts",
+                "start": 85,
+                "end": 89,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 97,
+                "end": 101,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "stok",
+                "start": 172,
+                "end": 176,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 240,
+                "end": 243,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan snyd men de pens aanstukken, eerst midden door en dan de andere stukken zo groot als men de Rolpensen maaken wil; ze moeten wat langwerpig zyn; men kan doorgaans 15 a 16 Rolpensen uit een pens maaken, en wel 20 wil men ze zo veel te kleinder maaken, behalven de Muts daar 'er nog vier aan zyn.",
+        "labels": [
+            {
+                "text": "pens",
+                "start": 16,
+                "end": 20,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 192,
+                "end": 196,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men neemt 3 loot bruine peper, en een halfvierendeel nagelen; dit te zaamen eerst fyn gestoten en in een aarde schootel gedaan, en een hand vol gedroogde Saly, die men op den haart wat te droogen legt en die klein gewreven is, en een hand vol of vier zout daar onder geroert, tot men denkt dat men genoeg zal hebben; want den een doet het wel wat hartiger dan den ander.",
+        "labels": [
+            {
+                "text": "peper",
+                "start": 24,
+                "end": 29,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "nagelen",
+                "start": 53,
+                "end": 60,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Saly",
+                "start": 154,
+                "end": 158,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Neemt voor het vleesch, het geen men daar in legt, het vleesch van de schouwder van een Os dat het malste is; of anders een van de platte billen.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 15,
+                "end": 22,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 55,
+                "end": 62,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouwder",
+                "start": 70,
+                "end": 79,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Os",
+                "start": 88,
+                "end": 90,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "billen",
+                "start": 138,
+                "end": 144,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Voor een geheele pens heeft men omtrent 20 pond vleesch noodig, behalven het vet dat men daar by gebruikt, dat nog omtrent 10 ponden is.",
+        "labels": [
+            {
+                "text": "pens",
+                "start": 17,
+                "end": 21,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 48,
+                "end": 55,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 77,
+                "end": 80,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het vet neemt men van de halve broek dat omtrent 10 ponden weegt, en heeft men niet genoeg zo neemt men Niervet daar by; en wil men het Niervet niet smelten zo kan men het geheel hier toe gebruiken, dan is het zo veel te delicater.",
+        "labels": [
+            {
+                "text": "vet",
+                "start": 4,
+                "end": 7,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Niervet",
+                "start": 104,
+                "end": 111,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Niervet",
+                "start": 136,
+                "end": 143,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het vleesch snyd men eerst aan stukken als Ossekarbenaden; en dan snyd men het aan lange reepen omtrent een vinger dik en vierkant; men snyd het vet ook aan zulke langwerpige stukken; en dan bestrooid men de pens met wat geprepareerd zout en kruit, gelyk ik boven gezegt heb.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Ossekarbenaden",
+                "start": 43,
+                "end": 57,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 145,
+                "end": 148,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 208,
+                "end": 212,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kruit",
+                "start": 242,
+                "end": 247,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als men het vleesch en het vet gesneeden heeft, legt men het met laagjes in de Rolpens, door een, dan wat vleesch en wat vet tusschen beiden; twee reepen vleesch tegen een reep vet, en men strooid 'er wat van dat geprepareerde zout en kruid tusschen beiden; en dan rolt men ze langwerpig toe, en men laat ze toenaaijen, maar de Rolpensen moeten niet te styf gerolt nog genaaid worden, anders zouden ze barsten.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 12,
+                "end": 19,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 27,
+                "end": 30,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 106,
+                "end": 113,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 121,
+                "end": 124,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 154,
+                "end": 161,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vet",
+                "start": 177,
+                "end": 180,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kruid",
+                "start": 235,
+                "end": 240,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als de rolpensen genaaid zyn dan moet men ze in een groote ketel, met regen water, over het vuur hangen, dat de Rolpensen ruim konnen kooken: ze moeten wel vier of vyf uuren kooken tot ze zo zagt zyn, dat men met een strootje door de pens heen kan steeken; dan zyn ze gaar en\nmoeten afgenoomen worden, en op een schoone regtbank worden gelegt, naast malkanderen, en een plank daar boven op; en daar moeten twee emmers half vol met water boven op de plank gezet worden om ze te parssen: Laat ze dan zo een nacht overstaan en doet ze dan in een keulse aarde pot by malkanderen.",
+        "labels": [
+            {
+                "text": "strootje",
+                "start": 217,
+                "end": 225,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 234,
+                "end": 238,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Laat dan een ketel of twee met regenwater kooken en laat het Koud worden; en als het koud is neemt dan schaars drie kommetjes van dat water tegen ruim een kommetje wyn azyn, en mengt dat te zaamen onder malkanderen zo veel tot dat de pens, als he daar over gegooten is, kan onderleggen, en zet ze dan zo open weg daar ze niet te vogtig staan, is heel goed om met appelen gebakken, of gestooft met wyn te eeten.\n10.",
+        "labels": [
+            {
+                "text": "pens",
+                "start": 234,
+                "end": 238,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "appelen",
+                "start": 363,
+                "end": 370,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Rooken van Hammen, van Osse vleesch en van Spek.",
+        "labels": [
+            {
+                "text": "Hammen",
+                "start": 11,
+                "end": 17,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Osse vleesch",
+                "start": 23,
+                "end": 35,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Spek",
+                "start": 43,
+                "end": 47,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als de Hammen omtrent acht dagen in het zout gelegen hebben, zo neemt men ze daar uit, en laat ze afdruipen en droogen, en dan naait men ze in rookzakken en hangt ze in de Schoorsteen, om met eikenhout of spaanders te rooken.",
+        "labels": [
+            {
+                "text": "Hammen",
+                "start": 7,
+                "end": 13,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "eikenhout",
+                "start": 192,
+                "end": 201,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "spaanders",
+                "start": 205,
+                "end": 214,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "En als ze drie maanden in de Schoorsteen gehangen hebben, neemt men ze daar uit, want anders droogen ze te sterk, en de kinnebaks-hammen zyn in een maand genoeg gerookt.",
+        "labels": [
+            {
+                "text": "kinnebaks-hammen",
+                "start": 120,
+                "end": 136,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Met het Spek handeld men op dezelve wyze, maar men kan het tot de maand Maart of April laaten hangen in de schoorsteen.",
+        "labels": [
+            {
+                "text": "Spek",
+                "start": 8,
+                "end": 12,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het gerookt vleesch moet ook acht dagen in het zout leggen, en dan in zakken genaait in de rook gehangen worden, en moet drie of wel vier maanden rooken.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 12,
+                "end": 19,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als men zyn vleesch rookt dan moet men zorg draagen dat nog het vleesch, nog de Hammen, nog Spek niet te laag hangen, anders worden ze zo goed niet, in een rookhuis is het best; en van tyd tot tyd neemt men een hoop eike spaanders die men op den haart legt en in brand steekt, en dan moet men met wat water de vlam uitblussen om te smeulen, dat rookt heel goed.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 12,
+                "end": 19,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 64,
+                "end": 71,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 80,
+                "end": 86,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Spek",
+                "start": 92,
+                "end": 96,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "eike spaanders",
+                "start": 216,
+                "end": 230,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als men het vleesch, de Hammen en Spek uit de schoorsteen neemt, zo doet men ze in schoone graauwe papieren, en hangt ze op een drooge plaats weg: Maar heeft men het niet in Rook-zakken genaait, zo moet men het, uit de schoorsteen neemende, in heet water schoon af boenen, en laaten ze dan in de zon droogen anders druipt het naderhand des zomers.\n11.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 12,
+                "end": 19,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 24,
+                "end": 30,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Spek",
+                "start": 34,
+                "end": 38,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Saucysen of Worst van Varkenvleesch, hoe men die maaken zal.",
+        "labels": [
+            {
+                "text": "Varkenvleesch",
+                "start": 22,
+                "end": 35,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Neemt by de 20 ponden, gehakt redelyk vet, varkens vleesch, anderhalf loot of twee loot nootemuscaten; twee loot nagelen; twee loot zwarte peeper, dit alles ter deegen fyn gestooten zynde, zo roert men het onder anderhalf vierendeel zout, en men kneed het door het gekapte Varkensvleesch heen; en men laat het zo een nacht met een schoone doek bedekt staan doortrekken.",
+        "labels": [
+            {
+                "text": "varkens vleesch",
+                "start": 43,
+                "end": 58,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "nootemuscaten",
+                "start": 88,
+                "end": 101,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "nagelen",
+                "start": 113,
+                "end": 120,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "zwarte peeper",
+                "start": 132,
+                "end": 145,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Varkensvleesch",
+                "start": 273,
+                "end": 287,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan neemt men Varkensdarmen, of zo men ze dun wil hebben, schapen darmen, die ter degen schoon gemaakt zyn: dog als de wyven ze schoon gemaakt hebben, zo laat men ze nog wat in 't laauw water staan, en men blaast ze eerst op en keert ze om, en schrapt ze af.",
+        "labels": [
+            {
+                "text": "Varkensdarmen",
+                "start": 14,
+                "end": 27,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schapen darmen",
+                "start": 58,
+                "end": 72,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan stopt men de Saucysen, en als men ze gestopt heeft zo hangt men die te droogen op een stok; en dan afgedroogdt met een schoone doek in de rondte in een keulse pot gelegt; en men neemt gedroogt zout, en legt 'er wat van op de bodem, en wat gedroogt zout tusschen beiden in gestrooit en boven op, niet te veel, dat het even bedekt is, maar hoe vaster het gepakt is hoe beeter.\n12.",
+        "labels": []
+    },
+    {
+        "text": "Saucysen van Patryzen en andere gevogelte om versch te eeten.",
+        "labels": [
+            {
+                "text": "Patryzen",
+                "start": 13,
+                "end": 21,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "gevogelte",
+                "start": 32,
+                "end": 41,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "In plaats van Varkens-vleesch neemt men patryzen of hoenders, die wel van het vel en spieren gezuivert zyn, en men neemt viermaal zo veel varkens reusel als vleesch, en men kruidt het naar zyn goedvinden; en men kneed 'er wat melk door heen en stopt ze in schaape darmen: dan legt men ze wat in Melk om uittetrekken, en dan droogt men ze af, en braad ze op een vet papier, is een smakelyk eeten.\n13.",
+        "labels": [
+            {
+                "text": "Varkens-vleesch",
+                "start": 14,
+                "end": 29,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "patryzen",
+                "start": 40,
+                "end": 48,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "hoenders",
+                "start": 52,
+                "end": 60,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "vel",
+                "start": 78,
+                "end": 81,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "spieren",
+                "start": 85,
+                "end": 92,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "varkens",
+                "start": 138,
+                "end": 145,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "varkens reusel",
+                "start": 138,
+                "end": 152,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 157,
+                "end": 164,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "melk",
+                "start": 226,
+                "end": 230,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schaape darmen",
+                "start": 256,
+                "end": 270,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Melk",
+                "start": 295,
+                "end": 299,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Saucysen zonder darmen om versch te eeten.",
+        "labels": [
+            {
+                "text": "darmen",
+                "start": 16,
+                "end": 22,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men maakt ook op dezelve wyze van varkensvleesch Saucysen zonder darmen, maar dan kneed men 'er braaf kruim van witte brood en dooren van Eijeren door, tot een deeg en als saucysen gerolt en op dezelve wyze gebraaden is zeer goed en smaakelyk.\n14.",
+        "labels": [
+            {
+                "text": "darmen",
+                "start": 65,
+                "end": 71,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "dooren",
+                "start": 127,
+                "end": 133,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Eijeren",
+                "start": 138,
+                "end": 145,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Om Varkens worst zonder zout, die excellent is en zeer lang kan duuren, zo dat men die zelfs, zonder bederf na Oost indien kan zenden, zonder dat ze te zout of wreed van smaak word, te maaken.",
+        "labels": []
+    },
+    {
+        "text": "Neemt by 24 ponden Varkensvleesch, 6 loot bruine peper; 6 loot kruitnagelen; en 6 loot Noote muscaaten; alles wel fyn gestooten, en dan onder malkanderen gemengt, en onder het gehakte Varkensvleesch gekneed: Stopt het dan in Varkensdarmen, en hangt ze een weinig te droogen, en dan met een schoone drooge\ndoek ter deegen afgedroogt, dan legt men die in de rondte als een slang, dat ze wel sluiten in een keulse aarde pot, met wat zout op de bodem, en de holligheden tusschen beiden vult men styf met zout, en op ieder laag wat zout, en van boven met zout bedekt.",
+        "labels": [
+            {
+                "text": "Varkensvleesch",
+                "start": 19,
+                "end": 33,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "bruine peper",
+                "start": 42,
+                "end": 54,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "kruitnagelen",
+                "start": 63,
+                "end": 75,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Noote muscaaten",
+                "start": 87,
+                "end": 102,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Varkensvleesch",
+                "start": 184,
+                "end": 198,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Varkensdarmen",
+                "start": 225,
+                "end": 238,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "slang",
+                "start": 371,
+                "end": 376,
+                "label": "An-Org-Sym"
+            }
+        ]
+    },
+    {
+        "text": "Die worst is excellent als ze een maand of twee gemaakt is geweest; en men kan ze wel twee jaaren bewaaren zonder te bederven of dat ze te zout zal werden.",
+        "labels": []
+    },
+    {
+        "text": "Wil men die naa Oost-Indien of elders verzenden, zo legt men ze in een goed wel ter degen digt gekuipt vaatje, dat men eerst uitbroeid, en met kruidnagelen op een test met vuur gelegt en onder het vaatje gezet, ter degen door en door laat droogen, en dan laat men het vaatje koud worden.",
+        "labels": [
+            {
+                "text": "kruidnagelen",
+                "start": 143,
+                "end": 155,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men gebruikt dan ook gedroogt zout: en het vaatje moet wel ter degen vol zyn en digt toegekuipt worden: en men laat het met loot bekleden, of anders neemt men een tweede vaatje dat wat grooter en ook wel digt en gedroogd is, en men legt zout op de bodem en zet het kleinste\nvaatje met worst daar in, en dan rondom met gedroogd zout aangestampt, en met droog zout boven op den bodem wel vol gedaan en toegekuipt; en als ze dan naa Oost-Indien verzonden word, zo komt ze daar zo goed en versch als men worst in Holland kan maaken; en dat is daar een groot present.\n15.",
+        "labels": []
+    },
+    {
+        "text": "Witte Beulingen, hoe men die maaken zal.",
+        "labels": []
+    },
+    {
+        "text": "Men neemt het vleesch van twee groote vette Kapoenen of van drie Hoenders, daar men de vellen ter deegen af doet; daar by doet men een pond of vier ongesmolten Verkens-Reusel.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 14,
+                "end": 21,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Kapoenen",
+                "start": 44,
+                "end": 52,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Hoenders",
+                "start": 65,
+                "end": 73,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "vellen",
+                "start": 87,
+                "end": 93,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Verkens-Reusel",
+                "start": 160,
+                "end": 174,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Hakt het vleesch zo fyn als gy kunt en vermengt het met de fyn gesneeden Reusel, en doet 'er dan het zelve kruid by gelyk wy in de andere Beulingen en Saucysen gezegt hebben; doet 'er dan een pintje zoete melk, en de kruim van een half gestreeken witte brood, met vyftien eijeren by, en doorkneet het alles ter deegen wel, stopt ze dan in schaape darmen, en legt ze in melk om uit te trekken, en wit te worden dan kan men ze braden gelyk wy gezegt hebben, is heel goed.\n16.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 9,
+                "end": 16,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Reusel",
+                "start": 73,
+                "end": 79,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kruid",
+                "start": 107,
+                "end": 112,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "melk",
+                "start": 205,
+                "end": 209,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "eijeren",
+                "start": 272,
+                "end": 279,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schaape darmen",
+                "start": 339,
+                "end": 353,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "melk",
+                "start": 369,
+                "end": 373,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Zeeusche Pens en Hoofdvleesch, hoe men die maaken zal.",
+        "labels": [
+            {
+                "text": "Zeeusche Pens",
+                "start": 0,
+                "end": 13,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hoofdvleesch,",
+                "start": 17,
+                "end": 30,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als men zo veel moeiten niet doen wil om Rolpens en Hoofd-vleesch te maaken, zo snyd men de pens in stukken, en men kookt het met de kop tot dat alles gaar is, en dan legt men het vleesch met de pens door een, met wat zout en heele peper, in den azyn, in een keulse aarde pot, is heel goed om met appelen des winters gebakken te eeten.\n17.",
+        "labels": [
+            {
+                "text": "Hoofd-vleesch",
+                "start": 52,
+                "end": 65,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 92,
+                "end": 96,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "kop",
+                "start": 133,
+                "end": 136,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 180,
+                "end": 187,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "pens",
+                "start": 195,
+                "end": 199,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "peper",
+                "start": 232,
+                "end": 237,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "appelen",
+                "start": 297,
+                "end": 304,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Zouten van Spek, Hammen en Ossen-Vleesch, hoe daar mede te handelen.",
+        "labels": [
+            {
+                "text": "Spek",
+                "start": 11,
+                "end": 15,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 17,
+                "end": 23,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Ossen-Vleesch",
+                "start": 27,
+                "end": 40,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Alles wat men zout moet wel ingewreeven worden voornamentlyk by de spieren, daar het vellig is, en daar men een gat of opening vind.",
+        "labels": [
+            {
+                "text": "spieren",
+                "start": 67,
+                "end": 74,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het vleesch dat men inzouten wil om te bewaaren moet eerst als het afgehakt is een nacht over, digt op malkanderen, op een Tafel worden gelegt om te besterven, en men besprengt het met wat zout om het bloedige los te maaken, en men dekt het toe met een doek en laat het zo een nacht leggen, en dan zout men het; en men moet de mergbeenen ter deegen met zout voorzien.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "mergbeenen",
+                "start": 327,
+                "end": 337,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan legt men alles aldus in de kuip om in order te gebruiken: 1. de 6 klapstukken van de buik onder in, want ze konnen het langste duuren: 2. de staartstukken: 3. de schouwderbladeren: 4. de twee borststukken: 5. de twee beste ribben: 6. de vier andere ribben: de twee ongeschikte ribben die by de\nschouwders zitten: 7. de huspot zo men wil boven op; maar men moet zorg dragen dat de stukken wel vast in malkanderen sluiten, en de openingen moeten met zout gevuld worden, en wat zout 'er boven op, en eerst onder op den bodem gespreid; ook moet de kuip eerst schoon uitgebroeid en met kruidnagels gedroogt worden.",
+        "labels": [
+            {
+                "text": "klapstukken",
+                "start": 70,
+                "end": 81,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "buik",
+                "start": 89,
+                "end": 93,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "staartstukken",
+                "start": 145,
+                "end": 158,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouwderbladeren",
+                "start": 166,
+                "end": 183,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "borststukken",
+                "start": 196,
+                "end": 208,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 227,
+                "end": 233,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 253,
+                "end": 259,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "ribben",
+                "start": 281,
+                "end": 287,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schouwders",
+                "start": 298,
+                "end": 308,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "kruidnagels",
+                "start": 585,
+                "end": 596,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dan legt men een dekzel die van binnen in de kuip sluit op het vleesch, om te maken dat het vleesch onder blyft als het zout begint te pekelen, want het mag niet droog leggen, en men kan 'er nu en dan wat pekel nog opgieten, en moet dan met de bovenste dekzel toegedekt en op een drooge plaats gezet worden, en men mag geen onreine menschen daar by laaten koomen.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 63,
+                "end": 70,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 92,
+                "end": 99,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Eenige menschen gieten pekel op het vleesch na dat het wel ingewreeven is en in de kuip is gelegt, het is ook heel goed, maar het eerste nog beter.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 36,
+                "end": 43,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het vleesch dat men rooken wil, en de Hammen moet men byzonder inzouten, en onder dat zout doet men een gedeelte salpeter; dan zal het vleesch en de Hammen, als ze gerookt zyn, veel schoonder en rooder zyn, en het is niet ongezond.\n18.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 4,
+                "end": 11,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 38,
+                "end": 44,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 135,
+                "end": 142,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Hammen",
+                "start": 149,
+                "end": 155,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Zonderlinge proeve om te weeten of het vleesch van een gezond beest is of niet.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 39,
+                "end": 46,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "beest",
+                "start": 62,
+                "end": 67,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als 'er een besmettelyke ziekte onder de beesten heerscht, (gelyk tegenwoordig nu dit gedrukt word) zo mogen 'er wel geen beesten geslagen worden, dan die men voor gezond gekeurt heeft, dog het kan gebeuren dat ze de ziekte reets onder de leden hebben, zonder dat het kan gezien worden.",
+        "labels": [
+            {
+                "text": "beesten",
+                "start": 41,
+                "end": 48,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "beesten",
+                "start": 122,
+                "end": 129,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "En schoon veele staande houden dat het eeten van dit vleesch geen quaad aan de menschen doedt, zo zyn fatsoendelyke lieden nogtans beschroomd om het te gebruiken: om dit met zeekerheid te weeten zo kan men daar deeze proeve van neemen.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 53,
+                "end": 60,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als het vleesch eenigen tyd in het zout of de pekel gelegen heeft, zo neemt 'er een stuk uit en kookt dit zonder het te ververschen of af te wasschen, vind gy dan dat het zout na binnen doorgedrongen is, dan is het vleesch gezond en goed; maar is het beest niet recht gezond geweest, zo zal het zout nooit doortrekken; en hoe ongezonder het is, hoe laffer het van binnen zal zyn, en laat men doen wat men wil het zal in de kuip verrotten en vergaan: Dit heeft ons de ondervinding geleerd.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 8,
+                "end": 15,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 215,
+                "end": 222,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "beest",
+                "start": 251,
+                "end": 256,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Hy, onder wiens opzicht dit werk word uitgegeeven, heeft daar van tegenwoordig de proef meer dan eenmaal genomen en het aldus ondervonden; (en heeft zelfs boeren gezien die de beste stukken, van ongezonde beesten, daar men die versch eetende niets aan konde proeven, ingezouten hebbende, die allen, om dat ze geen zout wilde vatten, in het water weg wierpen.)",
+        "labels": [
+            {
+                "text": "beesten",
+                "start": 205,
+                "end": 212,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. VI. De grond is vol Zwavel en Salpeter. Doch gelyk alzulke aardbevingen niet wel zonder hoofdzakelyke medewerking der onderaardsche vuren te begrypen zyn, gaan dezelve, als zy hier voorvallen, ook gemenelyk met geweldige en zeer schadelyke vuurbraken verzelt.",
+        "labels": []
+    },
+    {
+        "text": "Allereerst zal ik van de Aardbranden spreken. Men heeft slegts de bovenste laag der aarde te ontbloten, of een vierdedeel van een elle diep te graven, om terstond een grote menigte zo wel klompswyze Zwavel, als veel Salpeter te vinden, waar door niet alleen de vruchtbaarheid van den grond in 't algemeen grotelyks vermindert word,",
+        "labels": []
+    },
+    {
+        "text": "maar ook niet zelden door inwendige schokking en stoting der yzerachtige zwavelkyen aanstekingen ontstaan, die in helle vlammen uitbarsten, onder of langs de aarde voortlopen, en nu eens groter, dan eens kleiner landstreken zodanig uitbranden en verderven, dat dezelve t'enemaal versterven en voor eeuwig onvruchtbaar worden; waaruit eigentlyk te begrypen is, 't geen Deut XXIX.",
+        "labels": []
+    },
+    {
+        "text": "v. 23. gezegt word: Dat de Here de gantsche Aarde der verbrande steden met zwavel en zout verbrand heeft, dat zy niet besaait kan worden, en gene spruite zal voortbrengen.",
+        "labels": [
+            {
+                "text": "spruite",
+                "start": 146,
+                "end": 153,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Noch voor weinige jaren; namelyk, in den jare 1729, ontstond onvermoed een diergelyke aardbrand in het noorder gedeelte van het eiland, en wel in het district Huuswick, waar door het dorp Myconfu zodanig vernielt werd, dat het vruchtbaar land, kerken en huizen, beneffens schapen, paarden en rundvee te gelyk tot assche verbrande, en de vlam zo gezwind voortliep, dat de menschen naauwelyks door de snelste vlucht hun leven redden konden.",
+        "labels": [
+            {
+                "text": "schapen",
+                "start": 272,
+                "end": 279,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "paarden",
+                "start": 281,
+                "end": 288,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "rundvee",
+                "start": 292,
+                "end": 299,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Ook stonden te gelyk zes nabyleggende kerspels in het grootst gevaar, door dien brand geheel verdelgt te worden; doch door de genadige bestiering van God, die te midden van zynen toorn des ontfermens gedachtig is,   bleef het by drie, en werd het vuur, 't geen door geen menschen raad of hulpe te lesschen was, door een zeer dikken nevel en zwaren regen gelukkig geblust  b.",
+        "labels": []
+    },
+    {
+        "text": "\u00a7. VII. Mitsdien zyn 'er vele vuurbrakende Bergen in. Daar en boven zyn de Bergen wegens de te voren gezegde en noch meer andere inwendige eigenschappen  c ter ontbranding noch meer en dikwils zo bequaam als gereed.",
+        "labels": []
+    },
+    {
+        "text": "Ja zy zyn het zelven, die gemeenlyk het begin der aardbranden veroorzaken.",
+        "labels": []
+    },
+    {
+        "text": "Mitsdien ziet men zelden op Ysland andere, dan uitgebrande bergen, aan en om welke men bequaam de werkingen en overgebleven tekenen van een vorigen brand bespeuren kan.",
+        "labels": []
+    },
+    {
+        "text": "Alomme is geen gewoon zand, als op andere plaatsen, maar slegts oude assche en verbrande steenstof te vinden: en noch hedendaags ontstaan niet zelden in 't gebergte vervarelyke Vuuruitberstingen, 't zy de oude voormalige vuurbraken, na met den tyd inwendig een nieuwe voorraad van brandstoffen verzamelt te hebben, onvermoedelyk weder in beweging geraken en zich beginnen te ontlasten d, of 't zy ook nieuwe bergen,",
+        "labels": []
+    },
+    {
+        "text": "die te voren noch niet gebrand hebben, met een hevigen slag vaneen bersten, en door hunne uitwerping alles doen schrikken en beven; waar by koomt, dat niet slegts de haastig smeltende grote ys- en sneeuwbedekzelen met een verschrikkelyk geweld stroomswyze nederstorten, en alles, wat naby en omlegt, overstromen, maar ook te gelyk de navlietende gesmolten mineralen en brandstoffen, 't geen zy aan vee, menschen, huizen enz.",
+        "labels": [
+            {
+                "text": "vee",
+                "start": 398,
+                "end": 401,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "onderweg ontmoeten, inzwelgen en medeslepen, en mitsdien de beide schadelykste elementen, vuur en water, met vereent geweld het land voor eeuwig in den grond verderven, en niet dan diep uitgespoelde groeven of sleuven nalaten.",
+        "labels": []
+    },
+    {
+        "text": "Men zwyge van de verwoesting, die de uitvliegende en wyd en zyd gedreven puim- en andere stenen, benevens de noch verder stuivende grouwelyke menigte assche vele mylen wegs aanrechten.",
+        "labels": []
+    },
+    {
+        "text": "Op die wyze geraakte in den jare 1721 over de Portlands-baay een berg, die te voren niet gebrand had, eensklaps in een hevigen brand, als wanneer niet alleen vele vlammen en stenen uitgestoten en rondom geworpen, en te gelyk ook de te voren gezegde vrezelyke werkingen en zeer schadelyke vernieling van een grote streek lands veroorzaakt werden, maar ook daarenboven dit zeldzaam geval gebeurde, dat, toen de bersting geschiede, door het",
+        "labels": []
+    },
+    {
+        "text": "geweld der uitbrekende en uitgezette lucht een groot gedeelte van den berg, 't geen te zwaar was, om opgeligt te worden, op zyde en niet slegts een gantsche myl wegs langs het eiland tot aan het strand, maar zelfs noch een myl verr' in zee voortgeschoven, en aldaar neder gezet wierd, alwaar het, onaangezien de diepte, in den beginne wel 60 vademen boven het water uitstak, en aldaar merendeels noch staat e.",
+        "labels": []
+    },
+    {
+        "text": "Toenmaals werd de assche door den wind niet alleen over het gantsche eiland, maar noch enige mylen verder in zee op een zeker schip, en dus meer dan 30 mylen gedreven.",
+        "labels": []
+    },
+    {
+        "text": "Gedurende   drie dagen was de lucht zodanig met assche en damp vervult, dat men de zon niet zien konde.",
+        "labels": []
+    },
+    {
+        "text": "Al de gedroogde visch, die zich toen op het eiland bevond, werd daar van geheel zwart en onbruikbaar, ja in de twe naastvolgende jaren werden door die assche, of veeleer door de 'er mede vermengde scherpachtige rotsbrokjes of zand, gelyk boven by den brand op Jan Mayen eiland aangemerkt is, zo verre het",
+        "labels": [
+            {
+                "text": "visch",
+                "start": 16,
+                "end": 21,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "land en de weiden 'er van getroffen waren, de paarden en het hoornvee de bekken doorkorven en verdorven, en nadien het vuur ook het lage land, aan den voet van den berg leggende, aanstak, liep de brand alengs onder de aarde 18 mylen wegs voort, en duurde jaar en dag, aleer dezelve ophield.",
+        "labels": [
+            {
+                "text": "paarden",
+                "start": 46,
+                "end": 53,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "hoornvee",
+                "start": 61,
+                "end": 69,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XIX. Ook aan Bomen Op het gantsche eiland worden ook gene Bomen gevonden, behalven in deszelfs noorderlyk deel.",
+        "labels": [
+            {
+                "text": "Bomen",
+                "start": 16,
+                "end": 21,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "Bomen",
+                "start": 61,
+                "end": 66,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Gelyk een voornaam koopman uit Coppenhagen my verhaalt heeft, dat hy tusschen Huuswick en Olfioerd, ontrent 6 mylen van elkander gelegen, een Berkenbosch van drie vierde myl gevonden heeft, welks Bomen niet hoog, en derzelver stammen slegts een arm dik waren; en een ander zegt, dat by Thing Oere-Kloster noch een zeer kleine bosschadie, merendeels uit Berken bestaande, overig is, doch dat deze zo slegt en laag zyn, dat men, op een klein landpaard zittende, aan hunne kruin kan raken.",
+        "labels": [
+            {
+                "text": "Berkenbosch",
+                "start": 142,
+                "end": 153,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Bomen",
+                "start": 196,
+                "end": 201,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "stammen",
+                "start": 226,
+                "end": 233,
+                "label": "Plant-Part-Lit"
+            },
+            {
+                "text": "bosschadie",
+                "start": 326,
+                "end": 336,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Berken",
+                "start": 353,
+                "end": 359,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Slegts langs de weiden heeft men enige weinige lage Wilgebomen, en hier en daar kleine struiken en kreupel-bosjes van Braambezi\u00ebn, Geneverbomen en diergelyken, die door de inwoonders spaarzaam gehakt, en alleen gebruikt worden, om voor de weinige smeden, die op het eiland wonen, kolen te branden.",
+        "labels": [
+            {
+                "text": "weiden",
+                "start": 16,
+                "end": 22,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Wilgebomen",
+                "start": 52,
+                "end": 62,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "struiken",
+                "start": 87,
+                "end": 95,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "Braambezi\u00ebn",
+                "start": 118,
+                "end": 129,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "Geneverbomen",
+                "start": 131,
+                "end": 143,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "In vroeger tyden moeten alhier geen bosschadien ontbroken hebben, nadien niet alleen de oude berichten zulks getui- gen, maar ook hier en daar noch overblyfzels van oude wortelen te zien zyn; daarenboven vind men, een weinig diep in de aarde gravende, veel vergaan hout, 't geen zeer blaauw en hart is.",
+        "labels": [
+            {
+                "text": "bosschadien",
+                "start": 36,
+                "end": 47,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "wortelen",
+                "start": 170,
+                "end": 178,
+                "label": "Plant-Part-Lit"
+            },
+            {
+                "text": "hout",
+                "start": 265,
+                "end": 269,
+                "label": "Plant-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XX. Doch goede Weiden en Gras. Ofschoon de vruchtbare aardkorst of lage ongemeen dun is, vind men, inzonderheid aan de noordzyde, aan de beemden en wateren goede Vee-weiden, alwaar het Gras wel ene halve elle hoog wast, en met zeer vette en welriekende kruiden vermengt is, waar door het vee vet en smakelyk word.",
+        "labels": [
+            {
+                "text": "Weiden",
+                "start": 18,
+                "end": 24,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Gras",
+                "start": 28,
+                "end": 32,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "Vee",
+                "start": 165,
+                "end": 168,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Vee-weiden",
+                "start": 165,
+                "end": 175,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Gras",
+                "start": 188,
+                "end": 192,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "kruiden",
+                "start": 256,
+                "end": 263,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "vee",
+                "start": 291,
+                "end": 294,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "'t Geen het vee en de schapen niet afeten, word tot wintervoeder gewonnen, en wel op ene zeer kommerlyke wyze, nadien de grond overal ongemeen hobbelig en steenachtig is; zulks men gene grasseissen, maar alleen kleine kromme sikkelen gebruiken kan, waar mede het gras slegts in een geringe menigte uit de spleten en groeven tusschen de rotsbrokken en steenhopen voorzichtig afgesneden moet worden; weshalven, en vermits hun werktuig daarenboven van een zeer slegt maakzel is, in een dag niet veel gevordert word.",
+        "labels": [
+            {
+                "text": "vee",
+                "start": 12,
+                "end": 15,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "schapen",
+                "start": 22,
+                "end": 29,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "grasseissen",
+                "start": 186,
+                "end": 197,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "gras",
+                "start": 263,
+                "end": 267,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXI. Gelyk ook enige gezonde Kruiden. Ook mangelt het niet aan Gezonde Kruiden, by voorbeeld, Lepelblad, (Cochlearia,) en noch minder aan Zuring (Acetosa) die de wyze en alzints werkzame goddelyke voorzienigheid naar vereisch van die luchtstreek en hare gewone ziekten, aldaar in byzondere grote, deugd en kracht doet groeyen.",
+        "labels": [
+            {
+                "text": "Kruiden",
+                "start": 32,
+                "end": 39,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "Kruiden",
+                "start": 74,
+                "end": 81,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "Lepelblad",
+                "start": 97,
+                "end": 106,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Cochlearia",
+                "start": 109,
+                "end": 119,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Zuring",
+                "start": 141,
+                "end": 147,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Acetosa",
+                "start": 149,
+                "end": 156,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "My is van hunne wenschelyke uitwerking, onder vele anderen, de volgende zeer aanmerkelyke proeve verhaalt.",
+        "labels": []
+    },
+    {
+        "text": "Een schip in den jare 1700 van Tranquebar terug komende, 't geen, 't zy uit onbedrevenheid der stuurlieden, of gierigheid van den kapitein, die de kosten der verversching wilde sparen, de kaap de Goede hoop voorby gezeilt was, en, nadien van de manschap niet boven 5 of 6 meer in staat waren, om den scheepsarbeid te verrichten, genoodzaakt",
+        "labels": []
+    },
+    {
+        "text": "werd, Ysland aan te doen, viel gelukkig in Holmshaven, alwaar de kapitein het schip op het strand wilde doen lopen, toen ter rechter tyd een yslandsvaarder, aldaar in lading leggende, die aan zyne vlaggen zag, dat het een Deen was, het met een gedeelte van zyn volk te hulp quam, het anker deed vallen en het schip beveiligde.",
+        "labels": []
+    },
+    {
+        "text": "Vervol-gens bragt men het zieke volk aan land, 't geen, ofschoon het, behalven enig Lepelblad, niet als Zuring in warme Melk en een weinig Schapenvleesch nuttigde, nochtans velen binnen acht en de anderen binnen veertien dagen zo fris en gezond werden, dat zy huppelden en sprongen, en in minder dan vier weken na hun komst weder scheep gaan, zelven hun anker lichten, en die lange en bezwaarlyke reize voorts vrolyk voleinden konden.",
+        "labels": [
+            {
+                "text": "Lepelblad",
+                "start": 84,
+                "end": 93,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Zuring",
+                "start": 104,
+                "end": 110,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Melk",
+                "start": 120,
+                "end": 124,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Schapenvleesch",
+                "start": 139,
+                "end": 153,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Ook weet al ons volk, 't geen ooit naar Groenland geweest is, de kracht dier kruiden niet genoeg te roemen; want dezelve groeyen in gelyke, zo niet meerder, deugd, op Jan Mayen eiland, Spitsbergen enz.; en nadien onze matrozen, als zy op de hoogte van die eilanden komen, zich gemeenlyk zodanig",
+        "labels": [
+            {
+                "text": "kruiden",
+                "start": 77,
+                "end": 84,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "van het scorbut aangetast vinden, dat alle hunne tanden in den mond los worden, en zy bezwaarlyk in staat zyn, hunne diensten te verrichten, zoeken zy, zo dra mogelyk is, land, om die kruiden te bekomen, waar door zy zich terstond herstellen, en genoegzaam een nieuw leven en nieuwe krachten verkrygen.",
+        "labels": [
+            {
+                "text": "kruiden",
+                "start": 184,
+                "end": 191,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Men heeft my van noch een ander kruid verhaalt, 't geen alleen op zekere plaatsen wast, zonder het te konnen benoemen of beschryven, doch dat het, in melk gekookt, natuurlyk als gersten grutten smaakt, en Jacobaeus in Mus.",
+        "labels": [
+            {
+                "text": "kruid",
+                "start": 32,
+                "end": 37,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "melk",
+                "start": 150,
+                "end": 154,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "gersten grutten",
+                "start": 178,
+                "end": 193,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Reg. P. J. Sect. 6. n. 6 & 7. gedenkt noch twe voortreffelyke en heilzame kruiden, als Herbae Avium Islandiae, Fuglar-gras, of Akur-Lodar-gras en Musci catharetici-Islandiae, Fialla-gras, of Fioeru-gras.",
+        "labels": [
+            {
+                "text": "kruiden",
+                "start": 74,
+                "end": 81,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Herbae Avium Islandiae",
+                "start": 87,
+                "end": 109,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Fuglar-gras",
+                "start": 111,
+                "end": 122,
+                "label": "Plant-Part-Lit"
+            },
+            {
+                "text": "Akur-Lodar-gras",
+                "start": 127,
+                "end": 142,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Musci catharetici-Islandiae",
+                "start": 146,
+                "end": 173,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Fialla-gras",
+                "start": 175,
+                "end": 186,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Fioeru-gras",
+                "start": 191,
+                "end": 202,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXII. In het tegendeel gene Aardvruchten. Aardvruchten willen 'er doorgaans niet wel groeyen, gedeeltelyk wegens den onvruchtbaren grond, en gedeeltelyk wegens de te strenge koude en doordringende noorde winden; weshalven men het te meermalen, doch te vergeefs, met rapen, wortelen en diergelyken bezogt heeft.",
+        "labels": [
+            {
+                "text": "Aardvruchten",
+                "start": 31,
+                "end": 43,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Aardvruchten",
+                "start": 45,
+                "end": 57,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "rapen",
+                "start": 269,
+                "end": 274,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "wortelen",
+                "start": 276,
+                "end": 284,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXIII. En geen Koorn. Noch minder kan men het Veld bebouwen en Koorn zayen; want ofschoon men de stenen met veel moeiten uitlezen, en den grond door beploegen en mesten goed maken wilde, zoude nochtans de zomer of de warme tyd zo lang niet duren, dat iets ryp konde worden, en mitsdien weten de gemene en arme lieden van geen brood.",
+        "labels": [
+            {
+                "text": "Koorn",
+                "start": 18,
+                "end": 23,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Veld",
+                "start": 49,
+                "end": 53,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "Koorn",
+                "start": 66,
+                "end": 71,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXIV. Van de Zee- en Meirgewassen. Van Zeegewassen konde men my slegts een Alga marina, Zeenestel, met name noemen, 't geen zo wel versch, als by gebrek van hooy gedroogt, het vee, voorgeworpen word, en, hoewel vet, nochtans te gelyk onsmakelyk vleesch geeft.",
+        "labels": [
+            {
+                "text": "Zee-",
+                "start": 16,
+                "end": 20,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Meirgewassen",
+                "start": 24,
+                "end": 36,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "gewassen",
+                "start": 28,
+                "end": 36,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Zeegewassen",
+                "start": 42,
+                "end": 53,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Alga marina",
+                "start": 78,
+                "end": 89,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Zeenestel",
+                "start": 91,
+                "end": 100,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "vee",
+                "start": 179,
+                "end": 182,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 248,
+                "end": 255,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Doch in kommerlyke tyden word dit kruid, een weinig geroost, door de menschen ten spyze gebruikt.",
+        "labels": [
+            {
+                "text": "kruid",
+                "start": 34,
+                "end": 39,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De meermaals aangehaalde Jacobaeus d l. n 5. beschryft het onder den naam van Alga Saccharifera Islandiae, en geeft 'er een afbeelding van.",
+        "labels": [
+            {
+                "text": "Alga Saccharifera Islandiae",
+                "start": 78,
+                "end": 105,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Het zoude gezwellen verwekken, en, als men 'er veel van eet, sterk openende zyn.",
+        "labels": []
+    },
+    {
+        "text": "Het is te beklagen, dat de kruidkenners, inzonderheid onze Duitschers, wegens de ongelegenheid der zee, en mitsdien by gebreke van bequame gelegenheid, zich tot noch toe niet ernstig op de verzameling, onderscheiding en beschryving der zeegewassen toegelegt hebben, of toeleggen konnen; want nadien ik my deswegens enigzints gelegen heb laten zyn, en dezelve, zo veel my mogelyk was, verzamelt, heb ik opgemerkt, dat zy by een Godzoekend lief hebber der natuur ene nieuwe verwondering en veel genoegen konnen verwekken; namelyk, wanneer men hunne onbeschryffelyke, en voor den onkundigen ongelofelyke menigte, verscheidenheid, afbeelding, verwe, groey zonder wortelen enz.",
+        "labels": [
+            {
+                "text": "zeegewassen",
+                "start": 236,
+                "end": 247,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "wortelen",
+                "start": 659,
+                "end": 667,
+                "label": "Plant-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "in acht neemt, en daarby overweegt, dat niets, dan goed en nut, uit de hand van den wyzen Schepper gekomen is; ik wil zeggen, dat ook deze geheel onnut schynende gewassen niet alleen zo vele en veelerly levende schepselen ten voedzel, maar ook merendeels den menschen zelfs zo wel tot spyse, voornamelyk in tyden van gebrek, als tot krachtige artzenyen, wanneer zy dezelve, alleen uit begeerte naar vreemde en kostbare dingen, niet verachteden, veelvoudig zouden konnen dienen voor alle anderen; heeft de naarstige M.",
+        "labels": [
+            {
+                "text": "gewassen",
+                "start": 162,
+                "end": 170,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "schepselen",
+                "start": 211,
+                "end": 221,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Martin in zyne lezenswaardige Description of the Western Islands of Scottland, daar van zeer byzondere en merkwaarde aanmerkingen verzamelt, en dezelve p 148 sqq., den kieschen ter beschaming, in 't licht gegeven, om te betogen, dat de inwoonders, die in grote eenvoudigheid op die afgelegen eilanden leven, zich het weinige, dat hun gegeven is,   ten nutte weten te maken.",
+        "labels": []
+    },
+    {
+        "text": "Van harde of Coraalachtige Zeegewassen wist myn berichter te zeggen, dat enigen van dezelven op de gronden gevonden wierden; doch konde hen niet noemen of beschryven, nadien hy, volgens zyne eigen belydenis, 'er nooit naar gezien had.",
+        "labels": [
+            {
+                "text": "Zeegewassen",
+                "start": 27,
+                "end": 38,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Ten minsten zal aldaar een zoort van Pori cervini Imperati p.",
+        "labels": [
+            {
+                "text": "Pori cervini Imperati",
+                "start": 37,
+                "end": 58,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "630 gevonden worden, 't geen men op de rotzachtige zeebanken van de niet verre van daar leggende hitlandsche eilanden overvloedig vind, en in myne verzameling Madrepora erectior punctata & ramosa, cornua, cervina aemulans heet.",
+        "labels": [
+            {
+                "text": "Madrepora erectior punctata",
+                "start": 159,
+                "end": 186,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "ramosa",
+                "start": 189,
+                "end": 195,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "cornua",
+                "start": 197,
+                "end": 203,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "cervina aemulans",
+                "start": 205,
+                "end": 221,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXV. Gene wilde Dieren. Wilde Dieren, zo edele of eetbare, als onedele of roofdieren, ziet men hier niet, vermoedelyk, vermits dit eiland van alle kanten zeer verre van het vaste land afgelegen is.",
+        "labels": [
+            {
+                "text": "Dieren",
+                "start": 19,
+                "end": 25,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Dieren",
+                "start": 33,
+                "end": 39,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "onedele",
+                "start": 66,
+                "end": 73,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "roofdieren",
+                "start": 77,
+                "end": 87,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "dieren",
+                "start": 81,
+                "end": 87,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Beren komen zomtyds in het voorjaar, als de wind 'er naar is, uit Groenland met de losgaande ysvelden aan de noordkust aandryven; doch men is gewoon, ontrent dien tyd 'er tegens te waken, en, zodra men slegts \u00e9\u00e9n bespeurt, met opontboden manschap 'er op los te gaan, en niet te rusten, voor men dezelve gevelt heeft; vermits die gevaarlyke dieren welhaast in de onbeklimbare gebergtens vermeerderen, en zo wel onder de verstrooide en onbeschut wonende boeren, als de in het wild lopende schapen enz.",
+        "labels": [
+            {
+                "text": "Beren",
+                "start": 0,
+                "end": 5,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "dieren",
+                "start": 340,
+                "end": 346,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "schapen",
+                "start": 487,
+                "end": 494,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "veel schade veroorzaken zouden. \u00a7. XXVI. Behalven Vossen. Op die wyze moeten de Vossen van elders aldaar ingeslopen zyn, die zich overal by hopen op het eiland bevinden.",
+        "labels": [
+            {
+                "text": "Vossen",
+                "start": 50,
+                "end": 56,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Vossen",
+                "start": 80,
+                "end": 86,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dezen zyn hier nooit rood, maar weinigen van dezelven zwart, en de overigen doorgaans in den zomer blaauw-graau, en in den winter wit.",
+        "labels": []
+    },
+    {
+        "text": "Hunne vellen vallen in den winter, als zy het meeste en vastste hair hebben, het best; weshalven de Yslanders dezelve dan naarstig vangen, en wel, uit aangebore afschuuw van schietgeweer, met uitgezette netten of vangyzers, die gelyk een kleermakersschaar gevormt, en met een dood lam ten lokaas voorzien zyn.",
+        "labels": [
+            {
+                "text": "vellen",
+                "start": 6,
+                "end": 12,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "hair",
+                "start": 64,
+                "end": 68,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Buiten dien tyd leggen de inwoonders, nadien de Vossen de schapen zeer schadelyk zyn, kraanogen (nuces vomicae) in honig geweekt, die zy, anders niets zoets te eten bekomende, zeer begerig inzwelgen.",
+        "labels": [
+            {
+                "text": "Vossen",
+                "start": 48,
+                "end": 54,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "schapen",
+                "start": 58,
+                "end": 65,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "kraanogen",
+                "start": 86,
+                "end": 95,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "nuces vomicae",
+                "start": 97,
+                "end": 110,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "honig",
+                "start": 115,
+                "end": 120,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXVII. Gesteltenis hunner Paarden. De Paarden vallen hier, gelyk in alle noordelyke gewesten, klein, kort en gedrongen, 't geen ongetwyffelt voornamelyk toe te schryven is aan de zamentrekkende of persende eigenschap der koude, die den wasdom belet  q.",
+        "labels": [
+            {
+                "text": "Paarden",
+                "start": 29,
+                "end": 36,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Paarden",
+                "start": 41,
+                "end": 48,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Echter zyn zy sterk en levendig, en te gelyk boosaartig en bytachtig.",
+        "labels": []
+    },
+    {
+        "text": "Men moet zich verwonderen, wat zy konnen uitstaan; doch zy worden wel degelyk door de ongemakken verhard, nadien zy jaar uit jaar in in het open veld onder den bloten Hemel blyven, en 's winters onder de sneeuw zowel, als 's zomers, hun voeder zelven moeten zoeken, waar toe zy alleen de weldaad van de natuur genieten, dat zy met byzondere styve, lange en dikke hairen, allermeest tegen den wintertyd, bedekt zyn.",
+        "labels": [
+            {
+                "text": "veld",
+                "start": 145,
+                "end": 149,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "hairen",
+                "start": 363,
+                "end": 369,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXVIII. De schapen. De Schapen, die mede zeer klein zyn, hebben met de paarden het zelve geluk en gemak, want zy, zo min als deze, 's winters noch 's zomers in een stal komen, maar zich op het veld onder de overhangende rotzen, in de natuurlyke bergholen, en voorts zo zy best konnen, behelpen moeten, en zelven zorgen, waar hun verblyf en voedzel te vinden  r.",
+        "labels": [
+            {
+                "text": "schapen",
+                "start": 14,
+                "end": 21,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 26,
+                "end": 33,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "paarden",
+                "start": 74,
+                "end": 81,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "veld",
+                "start": 196,
+                "end": 200,
+                "label": "Plant-Coll-Literal"
+            }
+        ]
+    },
+    {
+        "text": "Zy houden zich steeds by de paarden, en volgen dezelve in den winter gestadig, op dat zy, als het zo sterk gevrozen heeft, dat zy met hunne kleine pootjes niet door konnen komen, wanneer de paarden ergens ene opening getreden, of iets voor zich omver gehaalt hebben, een weinig van de ontblote mos mogten bekomen; ook eten zy uit groten honger, gelyk men dikwerf opgemerkt heeft, zelfs het hair van de paardenstaarten.",
+        "labels": [
+            {
+                "text": "paarden",
+                "start": 28,
+                "end": 35,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "pootjes",
+                "start": 147,
+                "end": 154,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "paarden",
+                "start": 190,
+                "end": 197,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "mos",
+                "start": 294,
+                "end": 297,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "hair",
+                "start": 390,
+                "end": 394,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als het met een sterken wind sneeuwt, lopen zy steeds uit het gebergte met den wind af naar het strand, en dikwerf uit domheid in de zee, waar door een groot getal van hun omkoomt.",
+        "labels": []
+    },
+    {
+        "text": "Bywylen, als veel sneeuw valt, besneeuwen zy geheel en al, als wanneer zy in grote kudden zamen lopen, de koppen onder zich byeen steken, en het op de ruggen laten sneeuwen, doch bevriezen 'er zodanig onder, dat zy zich niet meer redden konnen.",
+        "labels": [
+            {
+                "text": "koppen",
+                "start": 106,
+                "end": 112,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "ruggen",
+                "start": 151,
+                "end": 157,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Als dan eten zy uit razenden honger elkanders wol, en behelpen zich zo lange, tot zy uitgegraven worden, 't geen de boeren niet verzuimen haastig te doen, zo dra zy vernemen, waar zodanig een kudde staat, bespeurende zulks wel haast uit den damp, die te midden dier kudde door de sneeuw, waardoor hy zich, vermits zyne warmte, een kleine opening als een schoorsteen maakt, in de hoogte stygt.",
+        "labels": [
+            {
+                "text": "wol",
+                "start": 46,
+                "end": 49,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "kudde",
+                "start": 192,
+                "end": 197,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "kudde",
+                "start": 266,
+                "end": 271,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Voorts zyn zy ook met grover en wreder wolle gedekt, 't geen eigentlyk van de strenge luchtstreek en het slegte voeder hervoort koomt, vermits bekent is, dat hoe milder de luchtstreek, en hoe beter de weide is, hoe fyner en zachter de wolle der Schapen en het hair der geiten valt  s; doch welke hun echter naar de wy-ze voorzienigheid van den goeden Schepper, die een ieder zyner schepzelen naar hunne omstandigheden hun nooddruft verzorgt, dus ook tegen de aldaar aanhoudende strenge en doordringende koude tot een te vaster dekzel verstrekt.",
+        "labels": [
+            {
+                "text": "wolle",
+                "start": 39,
+                "end": 44,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "weide",
+                "start": 201,
+                "end": 206,
+                "label": "Plant-Coll-Literal"
+            },
+            {
+                "text": "wolle",
+                "start": 235,
+                "end": 240,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 245,
+                "end": 252,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "hair",
+                "start": 260,
+                "end": 264,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "geiten",
+                "start": 269,
+                "end": 275,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Nooit worden zy geschoren, vermits zy jaarlyks nieuwe wol verkrygen (die midden in den zomer ontrent St.",
+        "labels": [
+            {
+                "text": "wol",
+                "start": 54,
+                "end": 57,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Jan, als hun een gering dekzel genoeg is, uitvalt) en de oude wol over het gantsche lyf los word; mitsdien is men gewoon, vermits de wol dikwils zeer verwart en ineen gewassen is, hun dezelve te gelyk als een overkleed van de vacht te stryken; wordende zy tot dat einde gejaagt en opgevangen.",
+        "labels": [
+            {
+                "text": "wol",
+                "start": 62,
+                "end": 65,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "wol",
+                "start": 133,
+                "end": 136,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Alsdan begeeft een harder zich met de afgerichte honden op een heuvel, en geeft met zyn hoorn een teken, waarop de honden zich verdelen, en de Schapen van alle kanten uit de klippen en wildernissen in een zekere omtuining of staketzel dryven, 't geen vooraan wyd uitgezet is; doch, op dat zy niet zouden konnen ontvluchten, naar achter allengs enger word.",
+        "labels": [
+            {
+                "text": "honden",
+                "start": 49,
+                "end": 55,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "hoorn",
+                "start": 88,
+                "end": 93,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "honden",
+                "start": 115,
+                "end": 121,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 143,
+                "end": 150,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "wildernissen",
+                "start": 185,
+                "end": 197,
+                "label": "Plant-Coll-Literal"
+            }
+        ]
+    },
+    {
+        "text": "Niet min is opmerkelyk, Die hier Hoornen hebben. dat de yslandsche Schapen in 't algemeen, zowel de Oyen t als de Rammen, niet alleen grote en gekliefde Hoornen, maar ook gemeenlyk meer als 4, ja zelfs tot 8 u, en onder dezelve menigmaal enen recht voor den kop uitstekenden Hoorn hebben; waar tegen het, door zyne hoornen anderzints in 't algemeen zogenaamd hoornvee, dezelve aldaar geheel",
+        "labels": [
+            {
+                "text": "Hoornen",
+                "start": 33,
+                "end": 40,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 67,
+                "end": 74,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Oyen",
+                "start": 100,
+                "end": 104,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Rammen",
+                "start": 114,
+                "end": 120,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Hoornen",
+                "start": 153,
+                "end": 160,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "kop",
+                "start": 258,
+                "end": 261,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Hoorn",
+                "start": 275,
+                "end": 280,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "hoornen",
+                "start": 315,
+                "end": 322,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "hoornvee",
+                "start": 359,
+                "end": 367,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "ontbreekt, 't geen gelegenheid geeft te gissen, dat alle de Schapen zonder onderscheid met Hoornen gewapent zyn, om dat zy, als gaande dolen, dezelve tegen de vele en grote roofvogels niet ontberen konnen, waar tegen het rundvee, nadien het van alzulke roofvogels niets te vrezen, en van wilde verscheurende dieren geen gevaar heeft, gevolgelyk gene Hoornen ter verwering gebruikt, en daar mede, als onnodig, niet belast is.",
+        "labels": [
+            {
+                "text": "Schapen",
+                "start": 60,
+                "end": 67,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Hoornen",
+                "start": 91,
+                "end": 98,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "roofvogels",
+                "start": 173,
+                "end": 183,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "rundvee",
+                "start": 221,
+                "end": 228,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "roofvogels",
+                "start": 253,
+                "end": 263,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "dieren",
+                "start": 308,
+                "end": 314,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Hoornen",
+                "start": 350,
+                "end": 357,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Doch wat de eigentlyke en natuurlyke oorzaak dezer zeldzaamheid zyn mag, is niet zeer ligt te beseffen  w.",
+        "labels": []
+    },
+    {
+        "text": "Op enige plaatsen bestaat alle have in Schapen, En op enige plaatsen beter gehoed worden.",
+        "labels": [
+            {
+                "text": "Schapen",
+                "start": 39,
+                "end": 46,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "weshalven de boeren 'er aldaar meer acht op geven. Dezen jagen alleen de Hamels in 't gebergte; doch houden de Oyen zo veel by huis, als doenlyk is.",
+        "labels": [
+            {
+                "text": "Oyen",
+                "start": 111,
+                "end": 115,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Om de Lammeren te beter te konnen hoeden, hebben zy de gewoonte, de Rammen, die steeds met de Schapen herom lopen, door een onder den buik gebonden stuk linnen het ontydig bespringen te beletten, en dat linnen alleen tegen den tyd af te laten, dat de te werpen Lammeren gras genoeg in 't veld konnen vinden, 't geen eerst tegen Pinxter geschieden kan.",
+        "labels": [
+            {
+                "text": "Lammeren",
+                "start": 6,
+                "end": 14,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Rammen",
+                "start": 68,
+                "end": 74,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 94,
+                "end": 101,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "buik",
+                "start": 134,
+                "end": 138,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "linnen",
+                "start": 153,
+                "end": 159,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "linnen",
+                "start": 203,
+                "end": 209,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Lammeren",
+                "start": 261,
+                "end": 269,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "gras",
+                "start": 270,
+                "end": 274,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "veld",
+                "start": 288,
+                "end": 292,
+                "label": "Plant-Coll-Literal"
+            }
+        ]
+    },
+    {
+        "text": "De geworpen Lammeren worden aanstonds getekent, waarom dan ook een ieder de zynen, vermits zy alle door malkander moeten lopen, met een eigen en byzonder teken merkt.",
+        "labels": [
+            {
+                "text": "Lammeren",
+                "start": 12,
+                "end": 20,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Die tedere diertjens zyn veel gevaar onderhevig van de grote pekzwarte Ravens, Doch door de Ravens worden vervolgt.",
+        "labels": [
+            {
+                "text": "diertjens",
+                "start": 11,
+                "end": 20,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Ravens",
+                "start": 71,
+                "end": 77,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Ravens",
+                "start": 92,
+                "end": 98,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "die in de wildernissen ongemeen sterk toenemen, nadien dezen dikwerf, zonder dat het verhoed kan worden, op dat zwakke vee vallen, het allereerst de ogen uitpikken, op dat het te minder zoude konnen ontkomen, en het vervolgens t'enemaal verslinden; ofschoon de boeren, zodra zy zulks bespeuren, niet verzuimen, toe te schieten, en",
+        "labels": [
+            {
+                "text": "vee",
+                "start": 119,
+                "end": 122,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "ogen",
+                "start": 149,
+                "end": 153,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "de Ravens verjagen; doch het Lam, vermits het, zyn voeder niet konnende zoeken, elendig omkomen moet, slagten, en het het zachte vel afstropen, 't geen de peltery geeft, die in Denmarken en Holstein onder den naam van Schmaaskin of Schmaasken x verkogt en zeer veel door lieden van een middelbaar vermogen gedragen word.",
+        "labels": [
+            {
+                "text": "Ravens",
+                "start": 3,
+                "end": 9,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Lam",
+                "start": 29,
+                "end": 32,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "vel",
+                "start": 129,
+                "end": 132,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Tegen den slagttyd, Hoe een ieder zyn recht Schaap weder bekoomt.",
+        "labels": [
+            {
+                "text": "Schaap",
+                "start": 44,
+                "end": 50,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "als zy gezint zyn, de Hamelen te vangen en te slagten voor de schepen, die in de vleeschhaven in lading leggen, worden dezelve op de te voren gemelde wyze met honden te zamen gedreven, in tegenwoordigheid van alle de rechters, op dat gekyf en twist verhoed, en niemand bevoordeelt mogte worden, en ook een ieder vergunt, de zynen, volgens zyn merkteken, naar zich te nemen.",
+        "labels": [
+            {
+                "text": "honden",
+                "start": 159,
+                "end": 165,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "In de magen der geslagte Schapen vind men niet zelden een ronde Kogel, Wat in hunne magen gevonden word.",
+        "labels": [
+            {
+                "text": "magen",
+                "start": 6,
+                "end": 11,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 25,
+                "end": 32,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "magen",
+                "start": 84,
+                "end": 89,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "ter grote van een kaatsbal, die inwendig met wol, mos en diergelyken gevult, en uitwendig door een lichtgraauw slymerig taay of hard vlies of huid omgeven is; waarvan ik ene uit Noorwegen onder den naam van Tophus Ovinus Norwagicus in myne verzameling bezitte.",
+        "labels": [
+            {
+                "text": "wol",
+                "start": 45,
+                "end": 48,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "mos",
+                "start": 50,
+                "end": 53,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "vlies",
+                "start": 133,
+                "end": 138,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "huid",
+                "start": 142,
+                "end": 146,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Tophus Ovinus Norwagicus",
+                "start": 207,
+                "end": 231,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Die kogel ontstaat ongetwyffelt uit de wol en andere onverteerbare dingen, die de Schapen zomwylen uit groten honger inzwelgen, en word eensdeels door de gestadige schokking der maag, die, gelyk bekent is, door hare kruiswyze over den andere leggende vliesjes onophoudelyk heen en weder bewogen word, zamen gerolt, geperst, gewentelt, en in een kogelachtige gestalte gebragt, en anderdeels, als 'er gestadig meer hairen bykomen, door de maagslym allengs verbonden, vergroot en eindelyk met de hartachtige huid omgeven  y.",
+        "labels": [
+            {
+                "text": "wol",
+                "start": 39,
+                "end": 42,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Schapen",
+                "start": 82,
+                "end": 89,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "maag",
+                "start": 178,
+                "end": 182,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "vliesjes",
+                "start": 251,
+                "end": 259,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "hairen",
+                "start": 413,
+                "end": 419,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "maagslym",
+                "start": 437,
+                "end": 445,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "huid",
+                "start": 505,
+                "end": 509,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXIX. Geiten zyn hier niet. Geiten konnen alhier niet gehouden worden, vermits hun het zo zeer geliefde loof van struiken en jonge bomen t'enemaal ontbreekt.",
+        "labels": [
+            {
+                "text": "Geiten",
+                "start": 9,
+                "end": 15,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Geiten",
+                "start": 31,
+                "end": 37,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "loof",
+                "start": 107,
+                "end": 111,
+                "label": "Plant-Part-Lit"
+            },
+            {
+                "text": "struiken",
+                "start": 116,
+                "end": 124,
+                "label": "Plant-Org-Lit"
+            },
+            {
+                "text": "bomen",
+                "start": 134,
+                "end": 139,
+                "label": "Plant-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXX. De Ossen en Koeyen zyn klein, en hebben geen Hoornen.",
+        "labels": [
+            {
+                "text": "Ossen",
+                "start": 11,
+                "end": 16,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Koeyen",
+                "start": 20,
+                "end": 26,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Hoornen",
+                "start": 53,
+                "end": 60,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Ossen en Koeyen vallen niet groter dan het kleinst geestvee in Duitsland; hebben, gelyk bereids gezegt is, gene Hoornen, en genieten alleen het voorrecht, door de huis lieden in den winter mede onder 't dak genomen en met het zo kommerlyk gewonnen hooy, of, by mangel van het zelve, met het gedroogd zeegewas Zeenestel spaarzaam gevoed te worden.",
+        "labels": [
+            {
+                "text": "Ossen",
+                "start": 0,
+                "end": 5,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Koeyen",
+                "start": 9,
+                "end": 15,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "geestvee",
+                "start": 51,
+                "end": 59,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Hoornen",
+                "start": 112,
+                "end": 119,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "hooy",
+                "start": 248,
+                "end": 252,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "Zeenestel",
+                "start": 309,
+                "end": 318,
+                "label": "Plant-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXXI. De Koemelk word tot artzeny gebruikt. De Melk is de voornaamste artzeny der Yslanders, en word daarom ook, zodra zy van de koe koomt, door gene anderen, dan alleen kranken, genoten.",
+        "labels": [
+            {
+                "text": "Koemelk",
+                "start": 12,
+                "end": 19,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "Melk",
+                "start": 50,
+                "end": 54,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "koe",
+                "start": 132,
+                "end": 135,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Anders bedienen zy zich in 't gemeen van huy of wey (Serum lactis) tot hun beste drank; weshalven zy 'er zeer zuinig mede omgaan, en gewoon zyn, dezelve, als zy goor, zuur en drabbig word, door water te verdunnen, te verlengen, en een weinig de onsmakelykheid te benemen.",
+        "labels": []
+    },
+    {
+        "text": "\u00a7. XXXII. Hoe de Boter behandelt word. Zy maken veel Boter; doch, zo veel my bewust is, geen Kaas.",
+        "labels": []
+    },
+    {
+        "text": "De Boter kaarnen de meesten voor en na zo hairig, als zy uit ongereinigde melk in een zamengenaaide schapenvacht gemolken is, en leggen dezelve dus op; weshalven een vreemdeling die Boter niet ligtelyk door de keel zoude konnen krygen.",
+        "labels": [
+            {
+                "text": "melk",
+                "start": 74,
+                "end": 78,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "schapenvacht",
+                "start": 100,
+                "end": 112,
+                "label": "An-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Ja, vermits zy 'er geen zout in konnen doen, word zy welhaast zo groen, zwart, kantig, sterk en onsmakelyk, dat men dezelve naauwlyks met hersmelten enz.",
+        "labels": []
+    },
+    {
+        "text": "den deensche matrozen eetbaar maken kan. \u00a7. XXXIII. Hoe het Vee word geslagt.",
+        "labels": [
+            {
+                "text": "Vee",
+                "start": 60,
+                "end": 63,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Hunne manier, om het Rundvee te slagten, heeft ook iets byzonders, Zy kollen het niet voor den kop, menende, dat daar door het bloed in 't vleesch stremt, en mitsdien niet lopen kan; maar steken het een dun penmes diep in den nek, waar door het ter aarde valt; als dan trekken zy de poten gezwind met strikken zamen, en openen de keel, op dat al het bloed zoude uitvlieten Het ingewand word door de Yslanders allereerst, zonder veel te reinigen, genuttigt, en het dier zelf afgehakt.",
+        "labels": [
+            {
+                "text": "Rundvee",
+                "start": 21,
+                "end": 28,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "kop",
+                "start": 95,
+                "end": 98,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "bloed",
+                "start": 127,
+                "end": 132,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 139,
+                "end": 146,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "nek",
+                "start": 226,
+                "end": 229,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "poten",
+                "start": 283,
+                "end": 288,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "keel",
+                "start": 330,
+                "end": 334,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "bloed",
+                "start": 350,
+                "end": 355,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "ingewand",
+                "start": 377,
+                "end": 385,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "dier",
+                "start": 464,
+                "end": 468,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "De stukken worden niet met zout gewreven, maar slegts twemaal door zeewater gehaalt, en dan in de lucht, op dat zy winddroog zouden worden, en vervolgens in hunne hutten over hunne haardsteden gehangen, om dezelve te roken, en te meer te doen drogen Dus behandelen zy hun geslagt half verrot en half stinkend vleesch, tot zy het voorts opeten.",
+        "labels": [
+            {
+                "text": "vleesch",
+                "start": 309,
+                "end": 316,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Die het beter willen maken, en 'er de middelen toe hebben, kopen een weinig zout, snyden, als het ge-slagt dier noch onafgehakt hangt, op drie of vier plaatsen een diepe snede in het vleesch, en doen in iedere opening een kleine hand vol zout, zich verbeeldende, dat het dus zelf, zo veel nodig is, door het gantsche beest trekt, en het vleesch, wanneer 'er vervolgens wind en rook by koomt, zeer wel bewaard word Op de beide gezegde wyzen handelen de ingezetenen ook met het schapenvleesch, als zy het voor hun huisgezin slagten.",
+        "labels": [
+            {
+                "text": "dier",
+                "start": 107,
+                "end": 111,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "vleesch",
+                "start": 183,
+                "end": 190,
+                "label": "An-Prod-Lit"
+            },
+            {
+                "text": "beest",
+                "start": 317,
+                "end": 322,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "schapenvleesch",
+                "start": 476,
+                "end": 490,
+                "label": "An-Prod-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXXIV. Hebben geen Zwynen, maar wel Honden en Katten.",
+        "labels": [
+            {
+                "text": "Zwynen",
+                "start": 22,
+                "end": 28,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Honden",
+                "start": 39,
+                "end": 45,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Katten",
+                "start": 49,
+                "end": 55,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Zwynen konnen alhier niet opgebragt worden, nadien, zomin op het veld als in de huizen, genoegzaam voeder voor dezelve te bekomen is.",
+        "labels": [
+            {
+                "text": "veld",
+                "start": 65,
+                "end": 69,
+                "label": "Plant-Coll-Literal"
+            }
+        ]
+    },
+    {
+        "text": "Honden en Katten heeft men 'er. \u00a7. XXXV. Tam Pluimgediert is hier niet.",
+        "labels": [
+            {
+                "text": "Honden",
+                "start": 0,
+                "end": 6,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Katten",
+                "start": 10,
+                "end": 16,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Pluimgediert",
+                "start": 45,
+                "end": 57,
+                "label": "An-Coll-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Duiven en ander tam Pluim gediert konnen 'er, wegens de langdurige strenge koude, gebrek aan voeder, en de menigte roofvogels van allerly zoort, niet gehouden worden.",
+        "labels": [
+            {
+                "text": "Duiven",
+                "start": 0,
+                "end": 6,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Pluim gediert",
+                "start": 20,
+                "end": 33,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "roofvogels",
+                "start": 115,
+                "end": 125,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Enige weinige meer bemiddelde, en derhalven kiesche, hebben gestadig een paar Hoenderen in huis, die zy met kleingesneden hooy, onder een weinig roggemeel met water vermengt, kommerlyk opvoeden.",
+        "labels": [
+            {
+                "text": "Hoenderen",
+                "start": 78,
+                "end": 87,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "hooy",
+                "start": 122,
+                "end": 126,
+                "label": "Plant-Prod-Lit"
+            },
+            {
+                "text": "roggemeel",
+                "start": 145,
+                "end": 154,
+                "label": "Plant-Part-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXXVI. Wat Gevogelt zy hebben. Het edel Landgevogelt bestaat, zo veel ik heb konnen ervaren, in Wachtelen, grote Snippen, als onze Houtsnippen, en de Berg-hoenen, Rypen  z genaamt.",
+        "labels": [
+            {
+                "text": "Gevogelt",
+                "start": 14,
+                "end": 22,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Landgevogelt",
+                "start": 43,
+                "end": 55,
+                "label": "An-Coll-Lit"
+            },
+            {
+                "text": "Snippen",
+                "start": 116,
+                "end": 123,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Houtsnippen",
+                "start": 134,
+                "end": 145,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Berg-hoenen",
+                "start": 153,
+                "end": 164,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Rypen",
+                "start": 166,
+                "end": 171,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "Dezen zyn de Snoriper op de lappische Alpen, die zich  a steeds op het land houden, meer lopen dan vliegen, en mitsdien niet bezwaarlyk te vangen zyn.",
+        "labels": []
+    },
+    {
+        "text": "Zy hebben, om de strenge koude te konnen wederstaan, geheel ruige met vederen bewassen poten, waarom zy of haar's gelyken by de geleerde vogelbeschryveren  b Lagopedes, doch in Duitsland en Zwitzerland ook Sneeuwhoenderen genaamt worden.",
+        "labels": [
+            {
+                "text": "poten",
+                "start": 87,
+                "end": 92,
+                "label": "An-Part-Lit"
+            },
+            {
+                "text": "Sneeuwhoenderen",
+                "start": 206,
+                "end": 221,
+                "label": "An-Org-Lit"
+            }
+        ]
+    },
+    {
+        "text": "\u00a7. XXXVII. Roofvogels. Van Roofvogels is 'er ene onbeschryffelyke menigte en verscheidenheid, als grote Arenden, Gieren, Havikken, Valken, Uilen, Ravens en an-dere meer, die aldaar gedeeltelyk namen en gedeeltelyk geen namen hebben.",
+        "labels": [
+            {
+                "text": "Roofvogels",
+                "start": 11,
+                "end": 21,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Roofvogels",
+                "start": 27,
+                "end": 37,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Arenden",
+                "start": 104,
+                "end": 111,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Gieren",
+                "start": 113,
+                "end": 119,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Havikken",
+                "start": 121,
+                "end": 129,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Valken",
+                "start": 131,
+                "end": 137,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Uilen",
+                "start": 139,
+                "end": 144,
+                "label": "An-Org-Lit"
+            },
+            {
+                "text": "Ravens",
+                "start": 146,
+                "end": 152,
+                "label": "An-Org-Lit"
+            }
+        ]
+    }
+]
