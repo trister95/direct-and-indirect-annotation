@@ -7,10 +7,9 @@ In our study, we compared indirect GenAI annotation with direct GenAI annotation
 * we build in an integration with the Huggingface ecoystem;
 * we adjusted for package updates. 
 
-It should be noted that there are still a lot of remnants that have more to do with their project than theirs (e.g. Chinese text, name of datasets). We did not make any attempts to systematically remove these, because our goal here was just to study the use of their method in humanities research. We have tried to make the code intelligible,
-but there will probably be places where the code could have been cleaner, more pythonic, etc. 
+It should be noted that there are still a lot of remnants that have more to do with their project than theirs (e.g. Chinese text, name of datasets). We did not make any attempts to systematically remove these, because our goal here was just to study the use of their method in humanities research. We have tried to make the code intelligible, but there will probably be places where the code could have been cleaner, more pythonic, etc. 
 
-If you are interested in using this method, we advise you to also inspect the [LLMaAA paper by Zhang et al. (2023)](https://aclanthology.org/2023.findings-emnlp.872n) and the accompanying repository [the accompanying repository](https://github.com/ridiculouz/LLMaAA/tree/main). Although we have added things ourselves, this repository used theirs as a starting point, as can be easily seen in the structure of the repo as well as the code itself.
+If you are interested in using this method, we advise you to also inspect the [LLMaAA paper by Zhang et al. (2023)](https://aclanthology.org/2023.findings-emnlp.872n) and the accompanying repository [the accompanying repository](https://github.com/ridiculouz/LLMaAA/tree/main). Although we have added things ourselves, this repository used theirs as a starting point, as can be easily seen in the structure of the repo as well as the code itself. Note that you will have to insert your own OpenAI API key to work with this code.
 
 Regarding the last bullet point: the GenAI field is very dynamic and it is likely that some further changes are needed due to updated packages. Changes in LangChain and the OpenAI ecosystem make some parts of our code redundant (e.g., parts of the safeguard we build into the annotation scripts are probably not needed when using the new "structured outputs" option). We, therefore, also advice to critically evaluate the existing code before implementation. It is more than likely that new developments make implementation simplier. 
 
